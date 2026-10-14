@@ -1,0 +1,12 @@
+# Java / Maven
+backend/target/
+*.class
+.idea/
+.vscode/
+# Node
+frontend/node_modules/
+frontend/dist/
+# Secrets
+.env
+.env.*
+!.env.example
